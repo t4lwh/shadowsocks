@@ -5,8 +5,6 @@ shadowsocks
 [![Build Status]][Travis CI]
 [![Coverage Status]][Coverage]
 
-[中文说明]
-
 A fast tunnel proxy that helps you [bypass firewalls].
 
 Features:
@@ -114,4 +112,3 @@ Bugs and Issues
 [Troubleshooting]:   https://github.com/shadowsocks/shadowsocks/wiki/Troubleshooting
 [Wiki]:              https://github.com/shadowsocks/shadowsocks/wiki
 [Windows]:           https://github.com/shadowsocks/shadowsocks-csharp
-[中文说明]:          https://github.com/shadowsocks/shadowsocks/wiki/Shadowsocks-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
